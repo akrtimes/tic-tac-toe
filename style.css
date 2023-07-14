@@ -65,6 +65,7 @@
     border-radius: 1rem;
     color: white;
     cursor: pointer;
+    margin-bottom: 2rem;
 }
 .win{
     background-color: rgb(20, 173, 20);
